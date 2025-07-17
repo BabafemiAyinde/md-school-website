@@ -5,8 +5,9 @@ A modern, mobile-friendly school website developed for MD School to streamline i
 
 ## 🔧 Tech Stack
 - WordPress CMS
+- Elementor
 - Custom theme and layout
-- PHP, HTML, CSS
+- PHP, HTML, CSS, JS
 - Integrated with third-party school portal
 
 ## 🧩 Key Features
